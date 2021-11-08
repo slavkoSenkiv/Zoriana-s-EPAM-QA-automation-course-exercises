@@ -1,6 +1,6 @@
 from selenium import webdriver
 
-# <editor-fold desc="default part, u can skip it">
+# <editor-fold desc="default part, u can skip it till try search function">
 search_xpath = '/html/body/div[2]/div/header/div/div[1]/div[2]/div/form/input'
 search_button_xpath = '/html/body/div[2]/div/header/div/div[1]/div[2]/div/form/button'
 product_xpath = '/html/body/div[2]/div/main/section[2]/div/div/div/ul/li'
